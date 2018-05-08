@@ -55,7 +55,7 @@
     "gulp": "3.9.1",
     "gulp-ava": "^0.18.0",
     "gulp-closure-compiler": "0.4.0",
-    "gulp-eslint": "3.0.1",
+    "gulp-eslint": "4.0.2",
     "gulp-exec": "2.1.2",
     "gulp-file": "0.2.0",
     "gulp-git": "^2.3.2",
