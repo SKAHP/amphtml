@@ -91,7 +91,7 @@
     "karma-sinon-chai": "1.2.3",
     "karma-super-dots-reporter": "^0.1.0",
     "lazypipe": "1.0.1",
-    "lolex": "1.4.0",
+    "lolex": "2.5.0",
     "markdown-link-check": "^3.0.3",
     "minimatch": "3.0.0",
     "minimist": "1.2.0",
